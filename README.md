@@ -11,3 +11,25 @@ OpenCV, the largest computer vision library in the world has these three built-i
 |     imread() |   helps us read an image                  |
 |     imshow() |   displays an image in a window           |
 |     imwrite()|  writes an image into the file directory  |
+
+## Test Images used: 
+Below the images we used to execute the aforementioned functions:
+
+![Source Image](https://github.com/steinerML/OpenCV-Read-Display-Write-/blob/main/image.jpg)
+![Source Image](https://github.com/steinerML/OpenCV-Read-Display-Write-/blob/main/gray2_flower.jpg)
+
+## Summary:
+
+```python
+#Reads image as Colour 1
+cv2.imread('image.jpg',1)
+```
+```python
+#Shows Unchanged, Grayscale and Color images.
+cv2.imshow('Unchanged Image:',img_unchanged)
+```
+
+```python
+#Writes grayscale image to working folder
+cv2.imwrite('gray2_flower.jpg', img_grayscale)
+```
