@@ -15,8 +15,8 @@ OpenCV, the largest computer vision library in the world has these three built-i
 ## Test Images used: 
 Below the images we used to execute the aforementioned functions:
 
-![Source Image](https://github.com/steinerML/OpenCV-Read-Display-Write-/blob/main/image.jpg)
-![Source Image](https://github.com/steinerML/OpenCV-Read-Display-Write-/blob/main/gray2_flower.jpg)
+![Source Image](https://github.com/steinerML/OpenCV-Read-Display-Write-/blob/main/image.jpg) ![Source Image](https://github.com/steinerML/OpenCV-Read-Display-Write-/blob/main/gray2_flower.jpg)
+
 
 ## Summary:
 
