@@ -2,9 +2,9 @@
 Read, Display and Write an Image using OpenCV
 ## Contents:
 
-Reading, displaying, and writing images are basic to image processing and computer vision.  Even when cropping, resizing, rotating, or applying different filters to process images, you’ll need to first read in the images. So it’s important that you master these basic operations.
+Reading, displaying, and writing images are basic to image processing and computer vision.  Even when cropping, resizing, rotating, or applying different filters to process images, you’ll need to first read in the images.
 
-OpenCV, the largest computer vision library in the world has these three built-in functions, let’s find out what exactly each one does:
+I have used these three built-in functions, let’s find out what exactly each one does:
 
 | Function     |Action                                     |
 |-------------:|-------------------------------------------|
@@ -13,7 +13,7 @@ OpenCV, the largest computer vision library in the world has these three built-i
 |     imwrite()|  writes an image into the file directory  |
 
 ## Test Images used: 
-Below the images we used to execute the aforementioned functions:
+Below the images I used to execute the aforementioned functions:
 
 ![Source Image](https://github.com/steinerML/OpenCV-Read-Display-Write-/blob/main/image.jpg) ![Source Image](https://github.com/steinerML/OpenCV-Read-Display-Write-/blob/main/gray2_flower.jpg)
 
