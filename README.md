@@ -1,4 +1,4 @@
-# OpenCV read display write
+# OpenCV Read, Display, Write.
 Read, Display and Write an Image using OpenCV
 ## Contents:
 
