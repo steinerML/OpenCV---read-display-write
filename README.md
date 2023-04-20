@@ -6,10 +6,8 @@ Reading, displaying, and writing images are basic to image processing and comput
 
 OpenCV, the largest computer vision library in the world has these three built-in functions, let’s find out what exactly each one does:
 
-| Function | Action |
-|-------------:|---------------|
+| Function     |Action                                     |
+|-------------:|-------------------------------------------|
 |     imread() |   helps us read an image                  |
 |     imshow() |   displays an image in a window           |
-|     imwrite()|  writes an image into the file directory |
-
-<!-- TO DO: add more details about me later -->
+|     imwrite()|  writes an image into the file directory  |
