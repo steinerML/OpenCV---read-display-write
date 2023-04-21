@@ -2,7 +2,7 @@
 Read, Display and Write an Image using OpenCV.
 ## Contents:
 
-Reading, displaying, and writing images are basic to image processing and computer vision.  Even when cropping, resizing, rotating, or applying different filters to process images, you’ll need to first read in the images.
+Reading, displaying, and writing images are basic to image processing and computer vision.  Even when cropping, resizing, rotating, or applying different filters to process images, you’ll need to first read in the images
 
 I have used these three built-in functions, let’s find out what exactly each one does:
 
